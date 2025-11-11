@@ -1,0 +1,25 @@
+body{
+    background-color: brown;
+    font-family:monospace;
+    width: 80%;
+    margin: 20px auto;
+    padding: 5px;
+    
+}
+h1{
+    letter-spacing: 6px;
+    font-size:50px;
+    padding: 8px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: antiquewhite;
+    text-transform: uppercase;
+}
+h2{
+    color: rgb(204, 146, 108);
+}
+p{
+    color: rgb(28, 26, 39);
+}
+ul{
+    color: rgb(28, 26, 39);
+}
